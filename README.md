@@ -1,6 +1,8 @@
 # standardize_coxph
 Regression standardization in Cox proportional hazards models Use standardize_coxph (stdReg2) With (In) R Software
 
+https://www.youtube.com/watch?v=Cw5-RcS3H20
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
